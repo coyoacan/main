@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Andrés
 - 👀 I’m interested in Games, Finance, Data Science
-- 🌱 I’m currently learning Master's Degree in Data Science
+- 🌱 I’m currently learning stuff by my own
 - 💞️ I’m looking for... nothing at the moment, learn and share maybe
 - 📫 How to reach me: I guess you can contact me here
 
